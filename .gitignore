@@ -1,0 +1,9 @@
+# Mac
+.DS_Store
+
+# Volumes folder
+**/volumes
+
+# Software files
+*.zip
+*.tar.gz
